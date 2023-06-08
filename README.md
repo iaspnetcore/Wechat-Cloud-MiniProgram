@@ -15,7 +15,7 @@ A Complete Smart Home Solution
 ## Install homeassistant core
 
 1. [home assisant project-install home assisant core 2022.3.0 on Raspberry Pi3b+](https://github.com/freemsly/home-assistant/blob/main/home-assisant-core-install.MD)
-	- 硬件环境准备——安装树莓派
+	- [小程序注册、申请、开发工具，开发、发布流程记录]([https://www.msly.cn/boards/topic/57/installing-home-assistant-core-on-raspberry-pi-3b/page/2#3590](https://www.iaspnetcore.com/blogpost-5b5c2fb08469be25ecca6380-wechat-mini-programs-1-small-program-registration-application-development-tools-development-release-process-records))
 	- 系统环境设置——树莓派基础配置
 	- 安装Samba和JupyterNotebook
 	- 基于树莓派安装HomeAssistant
