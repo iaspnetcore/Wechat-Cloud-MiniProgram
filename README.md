@@ -3,7 +3,7 @@ Wechat Cloud MiniProgram
 
 
 ### 本项目对应于《小程序云开发从前端到后台实战记录，开发一个完整功能的小程序》系列内容中的文档。
-[https://home-assisant.msly.cn](https://www.iaspnetcore.com/blog/tag/Wechat%20Mini%20Program)](https://www.iaspnetcore.com/blog/tag/Wechat%20Mini%20Program))
+[https://www.iaspnetcore.com/blog/tag/Wechat%20Mini%20Program)](https://www.iaspnetcore.com/blog/tag/Wechat%20Mini%20Program))
 
 ## Contents
 * [Install Wechat Mini Program](#install-Wechat-Mini-Program)
