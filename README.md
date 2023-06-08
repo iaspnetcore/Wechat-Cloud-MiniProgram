@@ -1,20 +1,18 @@
 # Wechat-Cloud-MiniProgram
 Wechat Cloud MiniProgram
 
-# home-assistant
-A Complete Smart Home Solution
 
-### 本项目对应于《HomeAssistant智能家居实战篇》系列内容中的文档。
-[home-assisant.msly.cn](https://home-assisant.msly.cn)
+### 本项目对应于《小程序云开发从前端到后台实战记录，开发一个完整功能的小程序》系列内容中的文档。
+[https://home-assisant.msly.cn](https://www.iaspnetcore.com/blog/tag/Wechat%20Mini%20Program)](https://www.iaspnetcore.com/blog/tag/Wechat%20Mini%20Program))
 
 ## Contents
-* [Install homeassistant core](#install-homeassistant-core)
+* [Install Wechat Mini Program](#install-Wechat-Mini-Program)
 * [Install Node red for home assistant core](#install-node-red)
 * [Home Assistant Remote access](#Home-Assistant-Remote-access)
 
-## Install homeassistant core
+## Install Wechat Mini Program
 
-1. [home assisant project-install home assisant core 2022.3.0 on Raspberry Pi3b+](https://github.com/freemsly/home-assistant/blob/main/home-assisant-core-install.MD)
+1. 微信小程序开发准备工作
 	- [小程序注册、申请、开发工具，开发、发布流程记录](https://www.iaspnetcore.com/blogpost-5b5c2fb08469be25ecca6380-wechat-mini-programs-1-small-program-registration-application-development-tools-development-release-process-records)
 	- 系统环境设置——树莓派基础配置
 	- 安装Samba和JupyterNotebook
