@@ -14,7 +14,7 @@ Wechat Cloud MiniProgram
 
 1. 微信小程序开发准备工作
 	- [小程序注册、申请、开发工具，开发、发布流程记录](https://www.iaspnetcore.com/blogpost-5b5c2fb08469be25ecca6380-wechat-mini-programs-1-small-program-registration-application-development-tools-development-release-process-records)
-	- 系统环境设置——树莓派基础配置
+	- [WeChat Mini Program-Register a Mini Program Account on WeChat Open Platform step by step](https://www.iaspnetcore.com/blogpost-60561364cdef6f1e2cf5bbd3-wechat-mini-program-register-a-mini-program-account-on-wechat-open-platform-step-by-step)
 	- 安装Samba和JupyterNotebook
 	- 基于树莓派安装HomeAssistant
 	- [HomeAssistant配置、文件结构、升级]
