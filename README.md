@@ -45,8 +45,7 @@ Wechat Cloud MiniProgram
 	- 手机访问HA
 	- StatesUI界面优化——分组与分页
 4. [小程序云开发支付目录汇总](https://www.iaspnetcore.com/blogpost-5dc77941a9746216b8425153-applet-cloud-development-payment-directory)
-	- 申请Amazon免费云主机
-	- [buy a domain from www.namesilo.com](https://www.iaspnetcore.com/Blog/BlogPost/5eb9e65e775d020216dbe009/wwwnamesilocom-registration-and-domain-name-purchase-operation-manual)
+	- [微信支付商户申请（企业）](https://www.iaspnetcore.com/Blog/BlogPost/5c4f140cdf95ff56a4fdb9b9/wechat-payment-1-wechat-payment-merchant-application-enterprise)
 	- frp隧道构建
 	- 免费为HA配上域名与HTTPS网站证书
 	- nginx代理
