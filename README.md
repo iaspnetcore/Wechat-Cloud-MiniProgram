@@ -110,9 +110,8 @@ Wechat Cloud MiniProgram
 	- 制作App——一个最简单的样例
 	- 制作App——应用callback
 
-14. 小程序用户付款
-        - [小程序云开发支付目录汇总](https://www.iaspnetcore.com/blogpost-5dc77941a9746216b8425153-applet-cloud-development-payment-directory)
-	- [微信支付商户申请（企业）](https://www.iaspnetcore.com/Blog/BlogPost/5c4f140cdf95ff56a4fdb9b9/wechat-payment-1-wechat-payment-merchant-application-enterprise)
+14. [小程序云开发支付目录汇总](https://www.iaspnetcore.com/blogpost-5dc77941a9746216b8425153-applet-cloud-development-payment-directory)
+        - [微信支付商户申请（企业）](https://www.iaspnetcore.com/Blog/BlogPost/5c4f140cdf95ff56a4fdb9b9/wechat-payment-1-wechat-payment-merchant-application-enterprise)
 	- [Node-RED配置](https://www.iaspnetcore.com/blogpost-5dc77941a9746216b8425153-applet-cloud-development-payment-directory)
 	- HomeAssistant节点(1)
 	- HomeAssistant节点(2)
