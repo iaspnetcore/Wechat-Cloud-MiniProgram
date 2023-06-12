@@ -44,7 +44,7 @@ Wechat Cloud MiniProgram
 	- 实体显示属性自定义
 	- 手机访问HA
 	- StatesUI界面优化——分组与分页
-4. [home assisant project-remote access on Raspberry Pi3b+](https://github.com/freemsly/home-assistant/blob/main/home-assisant-remote.MD)
+4. [小程序云开发支付目录汇总](https://www.iaspnetcore.com/blogpost-5dc77941a9746216b8425153-applet-cloud-development-payment-directory)
 	- 申请Amazon免费云主机
 	- [buy a domain from www.namesilo.com](https://www.iaspnetcore.com/Blog/BlogPost/5eb9e65e775d020216dbe009/wwwnamesilocom-registration-and-domain-name-purchase-operation-manual)
 	- frp隧道构建
