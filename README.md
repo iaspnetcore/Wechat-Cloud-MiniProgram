@@ -6,13 +6,13 @@ Wechat Cloud MiniProgram
 [https://www.iaspnetcore.com/blog/tag/Wechat%20Mini%20Program)](https://www.iaspnetcore.com/blog/tag/Wechat%20Mini%20Program))
 
 ## Contents
-* [Install Wechat Mini Program](#install-Wechat-Mini-Program)
-* [Install Node red for home assistant core](#install-node-red)
+* [Register Wechat Cloud Mini Program](#register-wechat-cloud-mini-program)
+* [Create Cloud Mini Program Project](#create-cloud-mini-program-project)
 * [Home Assistant Remote access](#Home-Assistant-Remote-access)
 
-## Install Wechat Mini Program
+## Register Wechat Cloud Mini Program
 
-1. 微信小程序开发准备工作
+1. 微信小程序开发准备工作（First）
 	- [小程序注册、申请、开发工具，开发、发布流程记录（总览）](https://www.iaspnetcore.com/blogpost-5b5c2fb08469be25ecca6380-wechat-mini-programs-1-small-program-registration-application-development-tools-development-release-process-records)
 	- [step 1.复用公众号资质创建小程序快速注册途径（企业）](https://www.iaspnetcore.com/blogpost-60561364cdef6f1e2cf5bbd3-wechat-mini-program-register-a-mini-program-account-on-wechat-open-platform-step-by-step#mcetoc_1h2d861v11e)
 	- [step 2.小程序绑定管理员微信号、完善小程序信息（补充小程序的基本信息，如名称、图标、描述等）（企业）](https://www.iaspnetcore.com/blogpost-5b5c2fb08469be25ecca6380-wechat-mini-programs-1-mini-program-registration-application-development-tools-development-and-release-process-records#mcetoc_1h2d5gukuav)
@@ -29,9 +29,10 @@ Wechat Cloud MiniProgram
 	
 	
 	
-	
+## Create Cloud Mini Program Project	
+
 2. 组件接入基础篇
-	- 让设备发声——朗读文字
+	- [下载开发工具]
 	- 让设备看到——使用手机摄像头做监控
 	- 将消息发送给你的邮箱
 	- 接入硬件产品——小米多功能网关
@@ -108,7 +109,7 @@ Wechat Cloud MiniProgram
 	- DashBoard配置(2)
 	- 制作App——一个最简单的样例
 	- 制作App——应用callback
-## Install Node red
+
 14. Installing Node red for Home Assistant Core
 	- [Install node-red](https://www.matterxiaomi.com/boards/topic/14538/node-red-node-red) - Installing Node red for Home Assistant Core 2023.2.2 in a Python vEnv on Raspberry Pi 3B+ step by step
 	- Node-RED配置
