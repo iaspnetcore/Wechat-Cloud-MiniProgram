@@ -13,7 +13,7 @@ Wechat Cloud MiniProgram
 ## Install Wechat Mini Program
 
 1. 微信小程序开发准备工作
-	- [小程序注册、申请、开发工具，开发、发布流程记录](https://www.iaspnetcore.com/blogpost-5b5c2fb08469be25ecca6380-wechat-mini-programs-1-small-program-registration-application-development-tools-development-release-process-records)
+	- [小程序注册、申请、开发工具，开发、发布流程记录（总览）](https://www.iaspnetcore.com/blogpost-5b5c2fb08469be25ecca6380-wechat-mini-programs-1-small-program-registration-application-development-tools-development-release-process-records)
 	- [step 1.复用公众号资质创建小程序快速注册途径（企业）](https://www.iaspnetcore.com/blogpost-60561364cdef6f1e2cf5bbd3-wechat-mini-program-register-a-mini-program-account-on-wechat-open-platform-step-by-step#mcetoc_1h2d861v11e)
 	- [step 2.小程序绑定管理员微信号、完善小程序信息（补充小程序的基本信息，如名称、图标、描述等）（企业）](https://www.iaspnetcore.com/blogpost-5b5c2fb08469be25ecca6380-wechat-mini-programs-1-mini-program-registration-application-development-tools-development-and-release-process-records#mcetoc_1h2d5gukuav)
 	- 基于树莓派安装HomeAssistant
