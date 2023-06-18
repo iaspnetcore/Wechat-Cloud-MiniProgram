@@ -34,8 +34,8 @@ Wechat Cloud MiniProgram
 2. 组件接入基础篇
 	- [下载开发工具]
 	- [创建第1个云小程序项目](https://www.iaspnetcore.com/Blog/BlogPost/5be65bacc8b8192d08896bca/wechat-wechat-app-asp-net-core-development-practice-record-9-cloud-development-environment-configuration) 	- 本文描述打开开发工具、输入appid、
-	- 将消息发送给你的邮箱
-	- 接入硬件产品——小米多功能网关
+	- [小程序云开发之2-]
+	- [小程序云开发之3-app.js 小程序 生命周期、启动入口页设置、splash启动页](https://www.iaspnetcore.com/blogpost-5beaf71ec8b8192d088d153d-wechat-wechat-asp-net-core-development-record-15-appjs-applet-life-cycle-startup-entry-page-settings-splash-startup-page)
 	- 接入自定义组件-和风天气
 3. 操作进阶篇
 	- 配置目录、hass命令与升级
