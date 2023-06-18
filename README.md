@@ -73,15 +73,15 @@ Wechat Cloud MiniProgram
 	- [aqara hub M1s](https://www.msly.cn/boards/topic/5278/aqara-gatewayhub-g2h-m1s-cn-p3-cn-m2-cn-h1-cn-e1-cn-g3-cn-g2h-pro-integration-for-home-assistant#18735)
 	
 	
-8. 各种摄像头接入篇
+8. 小程序云托管
 	- 支持MJPEG的摄像头与图片抓取
 	- RTSP协议摄像头与ffmpeg
 	- ONVIF协议摄像头
 	- 有线树莓派CSI与USB摄像头
 	- 小米的大方摄像头
 	- 天气预报与交通状况图——另类摄像头
-9. 人脸识别篇
-	- DLib配置与pip安装
+9. 小程序云托管
+	- [小程序云托管计费模式](https://developers.weixin.qq.com/miniprogram/dev/wxcloudrun/src/Billing/price.html) - https://developers.weixin.qq.com/miniprogram/dev/wxcloudrun/src/Billing/price.html
 	- 本地DLib人脸探测
 	- 本地DLib人脸识别
 	- 微软人脸特征检测
