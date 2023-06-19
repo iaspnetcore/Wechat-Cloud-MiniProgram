@@ -23,8 +23,8 @@ Wechat Cloud MiniProgram
 	- [HomeAssistant core 20221102配置、文件结构、升级]
 	  - [http://192.168.2.50:38123/profile]()
 	  - [change Home Assistnant Core default port](https://www.msly.cn/boards/topic/13395/quick-start#18747)
-	- [Other]
-	  - [小程序复用公众号资质快速认证） Step by Step](https://kf.qq.com/faq/170705yyUb2A170705MjeIRr.html)
+	- [offcial web]
+	  - [小程序复用公众号资质快速认证](https://kf.qq.com/faq/170705yyUb2A170705MjeIRr.html)
 	  - [How to Get the correct Debian ISO](https://www.matterxiaomi.com/boards/topic/36/debian-11-bullseye-installation#63)
 	
 	
