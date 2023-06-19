@@ -74,7 +74,7 @@ Wechat Cloud MiniProgram
 	
 	
 8. 小程序云托管
-	- 支持MJPEG的摄像头与图片抓取
+	- [install docker on windows，debian，etc](https://www.iaspnetcore.com/blogpost-5c1660281d51ae0eec4aba73-docker1-install-docker-on-windowsdebianetc) - 开发的第1步是在本地安装docker
 	- RTSP协议摄像头与ffmpeg
 	- ONVIF协议摄像头
 	- 有线树莓派CSI与USB摄像头
@@ -82,7 +82,7 @@ Wechat Cloud MiniProgram
 	- 天气预报与交通状况图——另类摄像头
 9. 小程序云托管
 	- [小程序云托管计费模式](https://developers.weixin.qq.com/miniprogram/dev/wxcloudrun/src/Billing/price.html) - https://developers.weixin.qq.com/miniprogram/dev/wxcloudrun/src/Billing/price.html
-	- 本地DLib人脸探测
+	- [微信小程序微信云托管开发-基础知识](https://www.iaspnetcore.com/blogpost-60e0c1561a2dc7020e674bd1-wechat-will-develop-mini-programs-through-wechat-cloud-hosting) - 初步了解微信小程序微信云托管开发全过程
 	- 本地DLib人脸识别
 	- 微软人脸特征检测
 	- 微软人脸识别与验证
