@@ -9,6 +9,7 @@ Wechat Cloud MiniProgram
 * [Register Wechat Cloud Mini Program](#register-wechat-cloud-mini-program)
 * [Create Cloud Mini Program Project](#create-cloud-mini-program-project)
 * [Home Assistant Remote access](#Home-Assistant-Remote-access)
+* [git](#git)
 
 ## Register Wechat Cloud Mini Program
 
@@ -115,8 +116,9 @@ Wechat Cloud MiniProgram
 	- HomeAssistant节点(1)
 	- HomeAssistant节点(2)
 	- 一些样例：闹钟、自动湿度控制、门铃
-15. 树莓派GPIO口设备连接篇
-	- 直连树莓派的LED(1)——NodeRED接入/HA中rpi_gpio_pwm组件
+## git
+15. git
+	- [Git工具GitHub Desktop上传本地项目到GitHub（GitHubDesktopSetup-x64.exe）](https://www.iaspnetcore.com/Blog/BlogPost/5c8eca62fb51d01218b55422/git-project-practice-1-upload-local-projects-to-github-through-git-tool-github-desktop-how-to-transfer-projects-on-visual-studiocom-to-githubcom)
 	- 直连树莓派的LED(2)——HA 中的shell_command/binary_sensor.command_line/light.template
 	- 直连树莓派的温湿度传感器
 16. MQTT篇
