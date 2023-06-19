@@ -246,14 +246,14 @@ Wechat Cloud MiniProgram
 	- [How To Install and uninstall reinstall Mysql on Ubuntu 18.04（vultr）](https://www.iaspnetcore.com/blogpost-6449555969967f028d52f122-how-to-install-and-uninstall-reinstall-mysql-on-ubuntu-1804vultr)	
 		
 
-## Useful links
-1. 真实<br>
+## 大型项目开发部署
+1. 选择并确定服务器部署方式
 https://github.com/sl041400/Home-assistant
 
-2. 小米有品<br>
+2. 复用可用源代码项目，调通整个流程（发布、支付）- 缩短开发周期
 https://www.xiaomiyoupin.com/
 
-3. 快节奏<br>
+3. git源代码
 重点展现实践操作过程。如果不是仅追求效果的话，需要自己补充对应的知识。实践——思考——学习
 
 4. 精心选择的实践与操作内容<br>
